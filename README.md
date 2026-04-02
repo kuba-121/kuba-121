@@ -31,7 +31,7 @@ I am a passionate developer focused on creating innovative applications and high
 ### 🌐 Connect with me
 
 <p align="left">
-  <a href="https://discord.gg/sM9jBrsybM"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://discord.gg/jdWeSJbcKx"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://modrinth.com/user/kuba_121"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
 </p>
 
