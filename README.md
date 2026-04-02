@@ -7,16 +7,17 @@ I am a passionate developer focused on creating innovative applications and high
 
 ### 🛠️ Tech Stack & Skills
 
-**┗ Programmer:**
+**┗ Programmer Expertise:**
 > ➔ **Languages:** `Python`, `JavaScript`, `Java`, `C++`, `PHP`, `Lua`
 > ➔ **Web:** `HTML5`, `CSS3`
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | Java, Python, PHP |
-| **Frontend** | HTML, CSS, JavaScript |
-| **Scripting** | Lua, Python |
-| **Systems** | Linux, Docker, Git |
+| **Software & Systems** | **C++**, Java, Python |
+| **Backend Dev** | Java, PHP, Python, JavaScript (Node.js) |
+| **Frontend Dev** | HTML5, CSS3, JavaScript |
+| **Scripting & Game** | Lua, Python, JavaScript |
+| **DevOps & Tools** | Linux, Docker, Git |
 
 ---
 
