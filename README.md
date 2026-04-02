@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm kuba_121
 
-<!--
-**kuba-121/kuba-121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Developer & Programming Enthusiast
+I am a passionate developer focused on creating innovative applications and high-performance solutions. I love learning new technologies and pushing the boundaries of what's possible in code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+**┗ Programmer:**
+> ➔ **Languages:** `Python`, `JavaScript`, `Java`, `C++`, `PHP`, `Lua`
+> ➔ **Web:** `HTML5`, `CSS3`
+
+| Category | Technologies |
+| :--- | :--- |
+| **Backend** | Java, Python, PHP |
+| **Frontend** | HTML, CSS, JavaScript |
+| **Scripting** | Lua, Python |
+| **Systems** | Linux, Docker, Git |
+
+---
+
+### 📊 My Projects & Activity
+
+* 🌐 **Web Development:** Creating responsive and modern websites.
+* 🎮 **Game Dev & Scripting:** Developing complex plugins and scripts (Java, Lua).
+* 🔧 **Software Engineering:** Building desktop tools and automation scripts.
+
+---
+
+### 🌐 Connect with me
+
+<p align="left">
+  <a href="https://discord.gg/sM9jBrsybM"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://modrinth.com/user/kuba_121"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
+</p>
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”*
