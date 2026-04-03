@@ -5,6 +5,14 @@ I am a passionate developer focused on creating innovative applications and high
 
 ---
 
+### 🏆 Top Achievement: Legacy Discord Bot
+> **Status: 🛑 Discontinued**
+* **Scale:** Deployed on **100+ Discord servers** with **10,000+ active users**.
+* **Language:** `Python` (discord.py)
+* **Focus:** Scalability, automated partnership systems, and performance optimization.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 **┗ Programmer Expertise:**
