@@ -42,6 +42,7 @@ I am a passionate developer focused on creating innovative applications and high
 <p align="left">
   <a href="https://discord.gg/jdWeSJbcKx"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://modrinth.com/user/kuba_121"><img src="https://img.shields.io/badge/Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" /></a>
+  <a href="https://www.spigotmc.org/members/kuba_121.1980724/"><img src="https://img.shields.io/badge/SpigotMC-E9A823?style=for-the-badge&logo=spigotmc&logoColor=white" /></a>
 </p>
 
 ---
