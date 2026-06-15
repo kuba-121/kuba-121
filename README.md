@@ -32,7 +32,7 @@
 
 | Core Languages | Web Technologies | Tools & Systems |
 | :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=py,java,js,cpp,php,lua" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs" /> | <img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,git" />&nbsp;<a href="https://httpd.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" title="Apache" /></a> |
+| <img src="https://skillicons.dev/icons?i=py,java,js,ts,cpp,php,lua" /> | <img src="https://skillicons.dev/icons?i=html,css,tailwind,nodejs" /> | <img src="https://skillicons.dev/icons?i=linux,docker,nginx,mysql,git" />&nbsp;<a href="https://httpd.apache.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" title="Apache" /></a> |
 
 </div>
 
